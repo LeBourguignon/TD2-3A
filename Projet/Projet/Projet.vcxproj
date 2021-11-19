@@ -144,6 +144,7 @@
     <ClCompile Include="todoList.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="category.h" />
     <ClInclude Include="date.h" />
     <ClInclude Include="todo.h" />
     <ClInclude Include="todoList.h" />
